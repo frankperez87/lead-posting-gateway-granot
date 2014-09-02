@@ -1,8 +1,11 @@
 # Granot Lead Posting Gateway
 
 This is an unofficial API for the Granot Lead Posting Gateway. 
+
 Find the documentation on what fields you can pass via the following url: 
 http://docs.google.com/View?id=dc9bddx5_10763jwtts
+
+*Note that I am only showing a couple of fields, which is not complete. Please refer to the documentation to pass along all required fields.*
 
 ####Install via Composer
 ```
